@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=prompt
+comment0.target=java.lang.String\ getString(java.lang.String)
+comment0.text=\r\n\ This\ method\ validates\ the\ String\ input\ from\ the\ user\r\n\ and\ ask\ to\ enter\ it\ again\ if\ it\ fails\ to\r\n\ validate\r\n\ @param\ prompt\ is\ the\ argument\ passed\ from\ the\r\n\ User-Interface\ Class\r\n
+comment1.params=prompt
+comment1.target=java.lang.Double\ getDouble(java.lang.String)
+comment1.text=\r\n\ This\ method\ validates\ the\ double\ input\ from\ the\ user\r\n\ and\ ask\ to\ enter\ it\ again\ if\ it\ fails\ to\r\n\ validate\r\n\ @param\ prompt\ is\ the\ argument\ passed\ from\ the\r\n\ User-Interface\ Class\r\n
+comment2.params=prompt
+comment2.target=java.lang.Integer\ getInteger(java.lang.String)
+comment2.text=\r\n\ This\ method\ validates\ the\ integer\ input\ from\ the\ user\r\n\ and\ ask\ to\ enter\ it\ again\ if\ it\ fails\ to\r\n\ validate\r\n\ @param\ prompt\ is\ the\ argument\ passed\ from\ the\r\n\ User-Interface\ Class\r\n
+comment3.params=toPrint
+comment3.target=void\ println(java.lang.String)
+comment3.text=\r\n\ This\ method\ is\ used\ to\ print\ the\ String\r\n\ passed\ as\ an\ argument\ in\ the\ method\r\n\ @param\ toPrint\ is\ the\ String\ to\ be\ printed\r\n\ as\ passed\ from\ the\ User-Interface\ class\r\n
+comment4.params=fileName\ data
+comment4.target=void\ saveData(java.lang.String,\ java.util.ArrayList)
+comment4.text=\r\n\ This\ method\ is\ used\ to\ save\ data\ into\ a\ file\ \r\n\ specified\ by\ filename\r\n\ @param\ fileName\ is\ the\ name\ of\ the\ file\ \r\n\ @param\ data\ is\ the\ actual\ arrayList\ to\ be\r\n\ stored\ into\ a\ file\r\n\ @throws\ IOException\ to\ check\ for\ any\ errors\r\n\ related\ to\ file\ writing\r\n
+comment5.params=fileName
+comment5.target=java.util.ArrayList\ readData(java.lang.String)
+comment5.text=\r\n\ This\ method\ is\ used\ to\ read\ data\ from\ a\ file\ \r\n\ specified\ by\ filename\r\n\ @param\ fileName\ is\ the\ name\ of\ the\ file\ \r\n\ @throws\ IOException\ to\ check\ for\ any\ errors\r\n\ related\ to\ file\ reading\r\n
+comment6.params=fileName\ data
+comment6.target=void\ writeToLogFile(java.lang.String,\ java.lang.String)
+comment6.text=\r\n\ This\ method\ is\ used\ to\ \r\n\ Write\ data\ to\ file\ \r\n\ @param\ fileName\ \r\n\ @param\ data\ ArrayList<String>\r\n
+comment7.params=ErrorMessage
+comment7.target=void\ ErrorLog(java.lang.String)
+comment7.text=\r\n\ This\ method\ is\ ErrorLog\ is\ used\ to\ \r\n\ log\ messages\ \r\n\ @param\ ErrorMessage\ String\r\n
+numComments=8
